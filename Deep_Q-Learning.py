@@ -35,7 +35,7 @@ memory = deque(maxlen=memory_size)
 
 # 讀取預訓練權重
 load_pre_train = True
-model_weight_name = 'dqn_for_space_invaders_ram_v5_v20250314.keras'
+model_weight_name = 'dqn_for_space_invaders_v5_v20250315.keras'
 
 # 預處理函數
 def preprocess_frame(frame):
