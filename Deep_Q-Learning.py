@@ -35,7 +35,7 @@ memory = deque(maxlen=memory_size)
 
 # 讀取預訓練權重
 load_pre_train = True
-model_weight_name = 'dqn_for_space_invaders_ram_v5_v20250313'
+model_weight_name = 'dqn_for_space_invaders_ram_v5_v20250314.keras'
 
 # 預處理函數
 def preprocess_frame(frame):
@@ -129,9 +129,9 @@ for episode in range(episodes):
 
     if episode % 20 == 0:
         print(f'第{episode}場結束，儲存模型架構與參數')
-        model.save('dqn_for_space_invaders_ram_v5_v20250313.keras')
+        model.save(model_weight_name)
 
 print(f'遊戲結束，儲存模型架構與參數')
-model.save('dqn_for_space_invaders_ram_v5_v20250313.keras')
+model.save(model_weight_name)
 
 env.close()
