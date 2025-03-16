@@ -378,3 +378,5 @@ Episode 356/10000, Total Reward: 210.0, Epsilon: 0.9997
 Episode 357/10000, Total Reward: 80.0, Epsilon: 0.9997
 Episode 358/10000, Total Reward: 425.0, Epsilon: 0.9997
 Episode 359/10000, Total Reward: 125.0, Epsilon: 0.9997
+Episode 360/10000, Total Reward: 110.0, Epsilon: 0.9997
+Episode 361/10000, Total Reward: 415.0, Epsilon: 0.9997
