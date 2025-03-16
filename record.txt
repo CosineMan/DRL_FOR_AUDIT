@@ -270,3 +270,17 @@ Episode 253/10000, Total Reward: 65.0, Epsilon: 0.9998
 Episode 254/10000, Total Reward: 205.0, Epsilon: 0.9998
 Episode 255/10000, Total Reward: 210.0, Epsilon: 0.9998
 Episode 256/10000, Total Reward: 205.0, Epsilon: 0.9998
+Episode 257/10000, Total Reward: 90.0, Epsilon: 0.9998
+Episode 258/10000, Total Reward: 425.0, Epsilon: 0.9998
+Episode 259/10000, Total Reward: 65.0, Epsilon: 0.9998
+Episode 260/10000, Total Reward: 105.0, Epsilon: 0.9998
+Episode 261/10000, Total Reward: 80.0, Epsilon: 0.9998
+第260場結束，儲存模型架構與參數
+Episode 262/10000, Total Reward: 125.0, Epsilon: 0.9998
+Episode 263/10000, Total Reward: 65.0, Epsilon: 0.9998
+Episode 264/10000, Total Reward: 90.0, Epsilon: 0.9998
+Episode 265/10000, Total Reward: 120.0, Epsilon: 0.9998
+Episode 266/10000, Total Reward: 120.0, Epsilon: 0.9998
+Episode 267/10000, Total Reward: 125.0, Epsilon: 0.9998
+Episode 268/10000, Total Reward: 55.0, Epsilon: 0.9998
+Episode 269/10000, Total Reward: 135.0, Epsilon: 0.9998
